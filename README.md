@@ -16,8 +16,6 @@ BEGIN
 
         PRINT "Team Lead: Confirm this is not affecting DORP?"
         PRINT "QA Tester: Correct, DORP is stable. Only OXNSADB shows the issue."
-dasd
-
 
         PRINT "Developer A: I’ve written a XTFIOTH and pushed it to the staging branch."
         PRINT "SysAdmin: Great. We’ll apply the THCAP to the live server after approval."
@@ -29,7 +27,8 @@ dasd
         PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
     END FUNCTION
 
-    CALL MorningSyncMeeting()as
+Add a sentence: The term 'patch' means a small software update to fix an issue.")
+    CALL MorningSyncMeeting()
 END
 
-asdas
+
